@@ -12376,9 +12376,9 @@ function Header({ mobileOpen, setMobileOpen }) {
         /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "absolute bottom-0 left-0 h-px w-0 bg-primary transition-all duration-300 group-hover:w-full" })
       ] }, item.href)) }),
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "hidden items-center gap-6 lg:flex", children: [
-        /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "tel:0909123456", className: "flex items-center gap-2 text-xs font-bold", "data-testid": "link-phone-header", children: [
+        /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "tel:0976221909", className: "flex items-center gap-2 text-xs font-bold", "data-testid": "link-phone-header", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx(Phone, { size: 15, className: "text-primary" }),
-          " 0909 123 456"
+          " 0976 221 909"
         ] }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "#lien-he", className: "flex items-center gap-2 bg-secondary px-4 py-3 text-[10px] font-bold uppercase tracking-[.15em] text-secondary-foreground transition-transform hover:-translate-y-0.5", "data-testid": "link-header-quote", children: [
           "Nhận báo giá ",
@@ -12403,7 +12403,7 @@ function Hero() {
     /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "absolute inset-0 bg-gradient-to-t from-secondary via-transparent to-secondary/20" }),
     /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "relative mx-auto flex min-h-[646px] max-w-[1440px] flex-col justify-between px-5 py-14 lg:px-12 lg:py-20", children: [
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "max-w-4xl animate-rise", children: [
-        /* @__PURE__ */ jsxRuntimeExports.jsx(SectionEyebrow, { light: true, children: "Hồ Chí Minh · từ 2012" }),
+        /* @__PURE__ */ jsxRuntimeExports.jsx(SectionEyebrow, { light: true, children: "Tây Ninh · từ 2012" }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("h1", { className: "mt-6 max-w-[930px] font-display text-[clamp(4.2rem,11vw,10rem)] font-black uppercase leading-[.82] tracking-[-.035em] text-balance", children: [
           "Thép tốt.",
           /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
@@ -12744,7 +12744,7 @@ function Contact() {
       /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "mt-10 space-y-5 border-t border-foreground/15 pt-5", children: [
         /* @__PURE__ */ jsxRuntimeExports.jsxs("a", { href: "tel:0909123456", className: "flex items-center gap-4 text-lg font-bold hover:text-primary", "data-testid": "link-phone-contact", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "grid size-10 place-items-center bg-secondary text-primary", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Phone, { size: 17 }) }),
-          "0909 123 456"
+          "0976 221 909"
         ] }),
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-center gap-4 text-sm", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "grid size-10 place-items-center bg-muted text-primary", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Clock3, { size: 17 }) }),
@@ -12753,9 +12753,9 @@ function Contact() {
         /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-center gap-4 text-sm", children: [
           /* @__PURE__ */ jsxRuntimeExports.jsx("span", { className: "grid size-10 place-items-center bg-muted text-primary", children: /* @__PURE__ */ jsxRuntimeExports.jsx(Ruler, { size: 17 }) }),
           /* @__PURE__ */ jsxRuntimeExports.jsxs("span", { children: [
-            "18 Đường Số 12, P. Linh Trung,",
+            "706 ấp Tân tiến, xã Tân Lập, Huyện Tân Biên, Tinh Tây Ninh, Hồ Nhất Khang,",
             /* @__PURE__ */ jsxRuntimeExports.jsx("br", {}),
-            "TP. Thủ Đức, TP. Hồ Chí Minh"
+            "Tân Biên, Tây Ninh"
           ] })
         ] })
       ] })
